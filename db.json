@@ -1,74 +1,74 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "name": "Alteo Caka",
-        "description": "This is the description for this user.",
-        "role": "Junior Web Developer",
-        "phoneNumber": "3871094819"
-      },
-      {
-        "id": 2,
-        "name": "Mia Dolan",
-        "description": "This is the description for this user.",
-        "role": "Actress",
-        "phoneNumber": "7822624219"
-      },
-      {
-        "id": 3,
-        "name": "Sebastian Wilder",
-        "description": "This is the description for this user.",
-        "role": "Jazz pianist",
-        "phoneNumber": "6471612219"
-      },
-      {
-        "id": 4,
-        "name": "Sonia Chazele",
-        "description": "This is the description for this user.",
-        "role": "Brand Specialist",
-        "phoneNumber": "2771904219"
-      },
-      {
-        "id": 5,
-        "name": "Don Randy",
-        "description": "This is the description for this user.",
-        "role": "Manager",
-        "phoneNumber": "3471684219"
-      },
-      {
-        "id": 6,
-        "name": "Andy Fones",
-        "description": "This is the description for this user.",
-        "role": "Writter",
-        "phoneNumber": "8071613219"
-      },
-      {
-        "id": 7,
-        "name": "Dany Holes",
-        "description": "This is the description for this user.",
-        "role": "Cybersecurity Specialist",
-        "phoneNumber": "8190624219"
-      },
-      {
-        "id": 8,
-        "name": "Hana Denver",
-        "description": "This is the description for this user.",
-        "role": "Secretary",
-        "phoneNumber": "7871632219"
-      },
-      {
-        "id": 9,
-        "name": "Dylan Cort",
-        "description": "This is the description for this user.",
-        "role": "SEO Specialist",
-        "phoneNumber": "4471644219"
-      },
-      {
-        "id": 10,
-        "name": "Randy Rhoads",
-        "description": "This is the description for this user.",
-        "role": "Guitar Player",
-        "phoneNumber": "1826244982"
-      }
-    ]    
-  }
+  "users": [
+    {
+      "id": 1,
+      "name": "Alteo Caka",
+      "description": "This is the description for this user, it contains information and data about the person which you may find useful.",
+      "role": "Junior Web Developer",
+      "phoneNumber": "3871094819"
+    },
+    {
+      "id": 2,
+      "name": "Mia Dolan",
+      "description": "This is the description for this user, it contains information and data about the person which you may find useful.",
+      "role": "Actress",
+      "phoneNumber": "7822624219"
+    },
+    {
+      "id": 3,
+      "name": "Sebastian Wilder",
+      "description": "This is the description for this user, it contains information and data about the person which you may find useful.",
+      "role": "Jazz pianist",
+      "phoneNumber": "6471612219"
+    },
+    {
+      "id": 4,
+      "name": "Sonia Chazele",
+      "description": "This is the description for this user, it contains information and data about the person which you may find useful.",
+      "role": "Brand Specialist",
+      "phoneNumber": "2771904219"
+    },
+    {
+      "id": 5,
+      "name": "Don Randy",
+      "description": "This is the description for this user, it contains information and data about the person which you may find useful.",
+      "role": "Manager",
+      "phoneNumber": "3471684219"
+    },
+    {
+      "id": 6,
+      "name": "Andy Fones",
+      "description": "This is the description for this user, it contains information and data about the person which you may find useful.",
+      "role": "Writter",
+      "phoneNumber": "8071613219"
+    },
+    {
+      "id": 7,
+      "name": "Dany Holes",
+      "description": "This is the description for this user, it contains information and data about the person which you may find useful.",
+      "role": "Cybersecurity Specialist",
+      "phoneNumber": "8190624219"
+    },
+    {
+      "id": 8,
+      "name": "Hana Denver",
+      "description": "This is the description for this user, it contains information and data about the person which you may find useful.",
+      "role": "Secretary",
+      "phoneNumber": "7871632219"
+    },
+    {
+      "id": 9,
+      "name": "Dylan Cort",
+      "description": "This is the description for this user, it contains information and data about the person which you may find useful.",
+      "role": "SEO Specialist",
+      "phoneNumber": "4471644219"
+    },
+    {
+      "id": 10,
+      "name": "Randy Rhoads",
+      "description": "This is the description for this user, it contains information and data about the person which you may find useful.",
+      "role": "Guitar Player",
+      "phoneNumber": "1826244982"
+    }
+  ]
+}
